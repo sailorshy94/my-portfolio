@@ -1,4 +1,4 @@
-# my-portfolio
+# Shy's Portfolio
 
 ## Description
 My online portfolio webpage.
